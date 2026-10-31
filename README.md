@@ -1,4 +1,4 @@
-# GrabPic 📸
+# GrabPic 
 
 Zero-cost photo distribution platform. Organizers upload event photos in bulk; attendees take a selfie and instantly get their personalized gallery.
 
@@ -17,7 +17,7 @@ Zero-cost photo distribution platform. Organizers upload event photos in bulk; a
 ### Prerequisites
 
 You'll need accounts (all free):
-- [MongoDB Atlas](https://www.mongodb.com/atlas) — you said you have this ✅
+- [MongoDB Atlas](https://www.mongodb.com/atlas) — you said you have this 
 - [Supabase](https://supabase.com) — create a free project
 - [Vercel](https://vercel.com) or [Netlify](https://netlify.com) for frontend
 - [Render](https://render.com) for backend
@@ -83,7 +83,7 @@ VITE_SUPABASE_URL=https://xxx.supabase.co
 VITE_SUPABASE_ANON_KEY=eyJ...    # anon/public key
 ```
 
-Then open [http://localhost:5173](http://localhost:5173)
+
 
 ---
 
